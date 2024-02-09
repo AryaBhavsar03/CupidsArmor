@@ -1,0 +1,8 @@
+name: CupidsArmor
+version: '${project.version}'
+main: me.arya.cupidsarmor.CupidsArmor
+depend:
+  - CombatTagPlus
+
+commands:
+  cgive:

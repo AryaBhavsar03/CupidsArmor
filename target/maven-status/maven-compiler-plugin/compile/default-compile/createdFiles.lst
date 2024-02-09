@@ -1,0 +1,10 @@
+me\arya\cupidsarmor\commands\commands.class
+me\arya\cupidsarmor\listeners\PlayerShiftListener.class
+me\arya\cupidsarmor\CupidsArmor.class
+me\arya\cupidsarmor\listeners\CombatTagEventListener.class
+me\arya\cupidsarmor\listeners\PlayerJoinQuitListener$1.class
+me\arya\cupidsarmor\managers\ArmorManager.class
+me\arya\cupidsarmor\utils\ItemBuilder$ItemBuilderBuilder.class
+me\arya\cupidsarmor\listeners\PlayerJoinQuitListener.class
+me\arya\cupidsarmor\listeners\CombatTagEventListener$1.class
+me\arya\cupidsarmor\utils\ItemBuilder.class
